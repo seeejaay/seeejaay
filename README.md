@@ -6,12 +6,12 @@
 </p>
 
 
-## About Me
-  - 💻  Web Developer that's looking to upgrade their skillset
-  - 📖  Studies at Far Eastern University - Institute of Technology
-  - 👨‍🎓  3rd Year Information Technology student that specializes in Web and Mobile Applications
+## 🧔About Me
+  - 💻  Web Developer looking to upgrade their skill set
+  - 📖  Studying at Far Eastern University - Institute of Technology
+  - 👨‍🎓  3rd Year Information Technology student specializing in Web and Mobile Applications
 
- <h2 align="center">Portfolio</h2>
+ <h2 align="center">📚Portfolio</h2>
 
 <p align="center">
   <a href="https://your-portfolio-link.com">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-### Contact Me
+### 📞Contact Me
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/474170716011626516)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seeejaay/)
 
@@ -27,7 +27,7 @@
 
 
 
-## Technologies I've used
+## 🧑‍💻Technologies I've used
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,7 +43,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Technologies I've tried
+## 🧑‍💻Technologies I've tried
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -52,7 +52,7 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 
-## Technologies I'm learning
+## 🧑‍💻Technologies I'm learning
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
