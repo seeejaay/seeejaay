@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%1a56ab" alt="Portfolio Badge">
+    <img src="https://img.shields.io/badge/Portfolio-%23144182.svg?style=for-the-badge&logo=firefox&logoColor=%2318a616" alt="Portfolio Badge">
   </a>
 </p>
 
