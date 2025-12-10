@@ -69,9 +69,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=seeejaay&show_icons=true&theme=radical" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seeejaaay)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeejaay&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
