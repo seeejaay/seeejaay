@@ -8,8 +8,8 @@
 
 ## 🧔About Me
   - 💻  Web Developer looking to upgrade their skill set
-  - 📖  Studying at **Far Eastern University - Institute of Technology**
-  - 👨‍🎓  **Senior Information Technology** student specializing in Web and Mobile Applications
+  - 📖  **Far Eastern University - Institute of Technology** Class of 2026
+  - 👨‍🎓  Degree in **Information Technology** specializing in Web and Mobile Applications
 
  <h2 align="center">📚Portfolio</h2>
 
