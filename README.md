@@ -1,81 +1,119 @@
-<h1 align="center">Hi, I'm 🙆seeejaay🙆</h1>
-<h3 align="center">A Web Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="GIF"/>
-</p>
+# hey, i'm carl. 🙆
 
+### `seeejaay` · Junior Full-Stack Developer
 
-## 🧔About Me
-  - 💻  Web Developer looking to upgrade their skill set
-  - 📖  **Far Eastern University - Institute of Technology** Class of 2026
-  - 👨‍🎓  Degree in **Information Technology** specializing in Web and Mobile Applications
+Building for the web. Getting curious about what happens after `git push`.
 
- <h2 align="center">📚Portfolio</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/cjmalabanan/)
+[![Discord](https://img.shields.io/badge/Discord-Say_hello-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/1312754470316146721)
+[![Projects](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seeejaay?tab=repositories)
 
-<p align="center">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23144182.svg?style=for-the-badge&logo=firefox&logoColor=%2318a616" alt="Portfolio Badge">
-  </a>
-</p>
+<br>
 
-### 📞Contact Me
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/474170716011626516)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seeejaay/)
+<img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="360" alt="Animated developer working at a desk">
 
+<sub>Actual debugging may involve significantly less typing and more staring.</sub>
 
+</div>
 
+---
 
+### 01 / the human behind the commits
 
-## 🧑‍💻Technologies I've used
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+I'm **Carl Justine Malabanan**, a web developer with a growing interest in backend engineering, thoughtful interfaces, and shipping things that work.
 
-## 🧑‍💻Technologies I've tried
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+- 🎓 **FEU Institute of Technology · Class of 2026**  
+  BS Information Technology, specializing in Web and Mobile Applications.
+- 🛠️ Working with **Laravel + SvelteKit**, with experience in **Next.js, Express, and PostgreSQL**.
+- 📦 Exploring **Docker, CI/CD, and agentic development workflows**.
+- 🏃 Away from the keyboard: running, anime, and a little less gaming than before.
 
-## 🧑‍💻Technologies I'm learning
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+```yaml
+current_side_quest:
+  goal: "Make shipping as satisfying as building."
+  learning: [Docker, CI/CD, agentic workflows]
+  recurring_plot_twist: "It worked on my machine."
+```
 
-## Design Tools
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### 02 / my everyday toolkit
+
+**Interfaces**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+**APIs & data**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+<details>
+<summary><b>Open the toolbox</b> — more technologies I've worked with or explored</summary>
+
+<br>
+
+| Area | Technologies |
+| :--- | :--- |
+| Web foundations | HTML, CSS, Bootstrap, jQuery |
+| Other languages | Python, C#, C++, Java, Kotlin |
+| Other databases | Microsoft SQL Server, MariaDB, SQLite |
+| Mobile | React Native, Expo |
+| Explored | Firebase, Tauri |
+| Design & media | Figma, Canva, Photoshop, Illustrator, After Effects, Premiere Pro |
+
+</details>
+
+<details>
+<summary><b>The learning backlog</b> — one rabbit hole at a time</summary>
+
+<br>
+
+**Current focus:** Docker, CI/CD, and agentic workflows.
+
+**Also on my radar:** Swift, Flutter, Dart, Vue, and CodeIgniter.
+
+</details>
+
+### 03 / project spotlight
+
+#### 🏝️ TOURISLA
+
+A tourism platform for **Bantayan, Cebu**, connecting web and mobile experiences.
+
+I worked on the backend for features spanning interactive maps, tour guide bookings, local culture, and tourism management.
+
+**Built with:** Next.js · Express · PostgreSQL · React Native / Expo
+
+<!-- Add a verified TOURISLA repository or live demo link here when available. -->
+
+[Explore my repositories ↗](https://github.com/seeejaay?tab=repositories)
+
+### 04 / currently leveling up
+
+| Focus | What I'm working toward |
+| :--- | :--- |
+| 📦 Docker | Reproducible development environments |
+| 🚦 CI/CD | Automated checks and dependable deployments |
+| 🤖 Agentic development | Clear repository guidance, useful skills, and reviewable changes |
+| 🧱 Architecture | Maintainable boundaries between UI, APIs, and data |
+
+---
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeejaay&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+**Have something interesting to build? Let's talk.**
+
+[LinkedIn](https://www.linkedin.com/in/seeejaay/) · [Discord](https://discordapp.com/users/474170716011626516)
+
+<sub>Thanks for stopping by. May your builds be green and your bugs reproducible.</sub>
+
 </div>
-
-
-
-
